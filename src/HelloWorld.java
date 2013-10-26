@@ -10,6 +10,6 @@
 public class HelloWorld {
     
     public static void HelloWorld(void){
-        System.out.println("Hello, pretty world");
+        System.out.println("Hello");
     }
 }
